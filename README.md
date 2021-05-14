@@ -11,11 +11,12 @@
 | **Pentesting Kubernetes Series** |  https://www.cyberark.com/resources/threat-research-blog/kubernetes-pentest-methodology-part-1 | 3 part series] |
  
   
-  
-OWASP Top 10 Varieties
-  Web: https://owasp.org/www-project-top-ten/
-  API: https://owasp.org/www-project-api-security/
-  Mobile: https://owasp.org/www-project-mobile-top-10/ (2016)
+## OWASP Top 10 Varieties
+| Name | URL | Description |
+| ---------- | :---------- | :---------- |  
+| **Web OWASP Top 10** | https://owasp.org/www-project-top-ten/ | |
+| **OWASP API Top 10** | https://owasp.org/www-project-api-security/ | |
+| **Mobile** | https://owasp.org/www-project-mobile-top-10/ | 2016 |
   
 
 Mobile pen testing
