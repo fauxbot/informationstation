@@ -34,9 +34,8 @@
 ## Web Application Penetration Testing
 | Name | URL | Description |
 | ---------- | :---------- | :---------- |  
-  Burp Resources
-    https://portswigger.net/web-security
-  OWASP Top 10
+| **Free Burp Training** | https://portswigger.net/web-security | |
+| **Common Web Attacks** | 
     Cross Site Scripting
     SQL Injection
     Broken authentication and session management
