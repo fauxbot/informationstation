@@ -1,8 +1,5 @@
 ## Table of Contents
 
-
-
-
 ## Kubernetes
 | Name | URL | Description |
 | ---------- | :---------- | :---------- |
@@ -23,38 +20,26 @@
 | **Apktool** | https://ibotpeaches.github.io/Apktool/ | |
 | **drozer** | https://labs.f-secure.com/tools/drozer/ | |
   
-
 ## Threat Modeling
 | Name | URL | Description |
 | ---------- | :---------- | :---------- |  
 | **MITRE ATT&CK** | https://attack.mitre.org/ | |
 | **Lockheed Martin, the Cyber Kill Chain** |  https://www.lockheedmartin.com/en-us/capabilities/cyber/cyber-kill-chain.html | |
   
-
 ## Web Application Penetration Testing
 | Name | URL | Description |
 | ---------- | :---------- | :---------- |  
 | **Free Burp Training** | https://portswigger.net/web-security |
 
-**Common Web Attacks**
-    Cross Site Scripting
-    SQL Injection
-    Broken authentication and session management
-    File Upload flaws
-    Caching Servers Attacks
-    Security Misconfigurations
-    Cross-Site Request Forgery
-    Password Cracking
-
 ## Penetration Testings AWS
 | Name | URL | Description |
 | ---------- | :---------- | :---------- |  
-  https://rhinosecuritylabs.com/penetration-testing/penetration-testing-aws-cloud-need-know/
-  https://github.com/toniblyx/my-arsenal-of-aws-security-tools (offensive and defensive tools)
+| **AWS Cloud Penetration Testing** | https://rhinosecuritylabs.com/penetration-testing/penetration-testing-aws-cloud-need-know/ | |
+| **List of AWS Security Tools** | https://github.com/toniblyx/my-arsenal-of-aws-security-tools | Offensive and defensive tools |
   
 
 ## Programming
 | Name | URL | Description |
 | ---------- | :---------- | :---------- |  
-  https://developers.google.com/edu/python (python)
+| **Google Python Course** | https://developers.google.com/edu/python | |
   
