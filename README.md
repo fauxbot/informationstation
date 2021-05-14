@@ -16,7 +16,7 @@
 | ---------- | :---------- | :---------- |  
 | **Web OWASP Top 10** | https://owasp.org/www-project-top-ten/ | |
 | **OWASP API Top 10** | https://owasp.org/www-project-api-security/ | |
-| **Mobile** | https://owasp.org/www-project-mobile-top-10/ | 2016 |
+| **OWASP Mobile Top 10** | https://owasp.org/www-project-mobile-top-10/ | 2016 |
   
 
 Mobile pen testing
