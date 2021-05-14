@@ -10,6 +10,8 @@
 | **Kube-Hunter** |  [https://kube-hunter.aquasec.com/] |
 | **Pentesting Kubernetes Series** |  [https://www.cyberark.com/resources/threat-research-blog/kubernetes-pentest-methodology-part-1 | 3 part series] |
  
+  | **My Arsenal of AWS Security Tools** | [https://github.com/toniblyx/my-arsenal-of-aws-security-tools](https://github.com/toniblyx/my-arsenal-of-aws-security-tools) | This list of open source tools for AWS security: defensive, offensive, auditing, DFIR, etc.|
+  
   
 OWASP Top 10 Varieties
   Web: https://owasp.org/www-project-top-ten/
