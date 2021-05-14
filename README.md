@@ -8,7 +8,7 @@
 | ---------- | :---------- | :---------- |
 | **Attacking and Auditing Docker and Kubernetes** |  https://madhuakula.com/content/attacking-and-auditing-docker-containers-and-kubernetes-clusters/index.html |
 | **Kube-Hunter** |  https://kube-hunter.aquasec.com/ |
-| **Pentesting Kubernetes Series** |  https://www.cyberark.com/resources/threat-research-blog/kubernetes-pentest-methodology-part-1 | 3 part series] |
+| **Pentesting Kubernetes Series** |  https://www.cyberark.com/resources/threat-research-blog/kubernetes-pentest-methodology-part-1 | 3 part series |
  
   
 ## OWASP Top 10 Varieties
