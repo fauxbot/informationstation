@@ -34,7 +34,8 @@
 ## Web Application Penetration Testing
 | Name | URL | Description |
 | ---------- | :---------- | :---------- |  
-| **Free Burp Training** | https://portswigger.net/web-security | |
+| **Free Burp Training** | https://portswigger.net/web-security |
+
 **Common Web Attacks**
     Cross Site Scripting
     SQL Injection
