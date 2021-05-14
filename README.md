@@ -36,3 +36,8 @@ Web Application Penetration Testing
 Penetration Testings AWS
   https://rhinosecuritylabs.com/penetration-testing/penetration-testing-aws-cloud-need-know/
   https://github.com/toniblyx/my-arsenal-of-aws-security-tools (offensive and defensive tools)
+  
+
+Programming
+  https://developers.google.com/edu/python (python)
+  
