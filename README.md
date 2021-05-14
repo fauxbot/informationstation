@@ -35,7 +35,7 @@
 | Name | URL | Description |
 | ---------- | :---------- | :---------- |  
 | **Free Burp Training** | https://portswigger.net/web-security | |
-| **Common Web Attacks** | 
+**Common Web Attacks**
     Cross Site Scripting
     SQL Injection
     Broken authentication and session management
