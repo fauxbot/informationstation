@@ -37,8 +37,7 @@
 ## Penetration Testings AWS
 | Name | URL | Description |
 | :---------- | :----------: | :----------: | 
-| **AWS Cloud Penetration Testing** | https://rhinosecuritylabs.com/penetration-testing/penetration-testing-aws-cloud-need-know/ | 
-Penetration Testing in the AWS Cloud: What You Need to Know |
+| **AWS Cloud Penetration Testing** | https://rhinosecuritylabs.com/penetration-testing/penetration-testing-aws-cloud-need-know/ | Penetration Testing in the AWS Cloud: What You Need to Know |
 | **List of AWS Security Tools** | https://github.com/toniblyx/my-arsenal-of-aws-security-tools | Offensive and defensive AWS tools |
   
 
