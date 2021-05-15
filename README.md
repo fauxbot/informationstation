@@ -26,28 +26,28 @@
 ## Threat Modeling
 | Name | URL | Description |
 | :---------- | :----------: | :----------: |
-| **MITRE ATT&CK** | https://attack.mitre.org/ | |
-| **Lockheed Martin, the Cyber Kill Chain** |  https://www.lockheedmartin.com/en-us/capabilities/cyber/cyber-kill-chain.html | |
+| **MITRE ATT&CK** | https://attack.mitre.org/ | MITRE ATT&CK® is a globally-accessible knowledge base of adversary tactics and techniques based on real-world observations. |
+| **Lockheed Martin, the Cyber Kill Chain** |  https://www.lockheedmartin.com/en-us/capabilities/cyber/cyber-kill-chain.html | Developed by Lockheed Martin, the Cyber Kill Chain® framework is part of the Intelligence Driven Defense® model for identification and prevention of cyber intrusions activity. The model identifies what the adversaries must complete in order to achieve their objective. |
   
 ## Web Application Penetration Testing
 | Name | URL | Description |
 | :---------- | :----------: | :----------: |
-| **Free Burp Training** | https://portswigger.net/web-security |
+| **Free Burp Training** | https://portswigger.net/web-security | Free, online web security training from the creators of Burp Suite |
 
 ## Penetration Testings AWS
 | Name | URL | Description |
 | :---------- | :----------: | :----------: | 
-| **AWS Cloud Penetration Testing** | https://rhinosecuritylabs.com/penetration-testing/penetration-testing-aws-cloud-need-know/ | |
-| **List of AWS Security Tools** | https://github.com/toniblyx/my-arsenal-of-aws-security-tools | Offensive and defensive tools |
+| **AWS Cloud Penetration Testing** | https://rhinosecuritylabs.com/penetration-testing/penetration-testing-aws-cloud-need-know/ | 
+Penetration Testing in the AWS Cloud: What You Need to Know |
+| **List of AWS Security Tools** | https://github.com/toniblyx/my-arsenal-of-aws-security-tools | Offensive and defensive AWS tools |
   
 
 ## Programming
 | Name | URL | Description |
 | :---------- | :----------: | :----------: |
-| **Google Python Course** | https://developers.google.com/edu/python | |
-
+| **Google Python Course** | https://developers.google.com/edu/python | Welcome to Google's Python Class -- this is a free class for people with a little bit of programming experience who want to learn Python. |
 
 ## Standards
 | Name | URL | Description |
 | :---------- | :----------: | :----------: |
-| **HIPAA** | [https://purplesec.us/hipaa-risk-assessment/](https://purplesec.us/hipaa-risk-assessment/) | |
+| **HIPAA** | https://purplesec.us/hipaa-risk-assessment/ | Per the brief history of HIPAA noted in the introduction, the HIPAA Security Rule defines the requirement of the Risk Assessment. |
