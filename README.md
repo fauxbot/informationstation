@@ -17,7 +17,7 @@
 ## Mobile Penetration Testing
 | Name | URL | Description |
 | :---------- | :----------: | :----------: |  
-| **Apktool** | https://ibotpeaches.github.io/Apktool/ | | A tool for reverse engineering 3rd party, closed, binary Android apps. It can decode resources to nearly original form and rebuild them after making some modifications. It also makes working with an app easier because of the project like file structure and automation of some repetitive tasks like building apk, etc. |
+| **Apktool** | https://ibotpeaches.github.io/Apktool/ | A tool for reverse engineering 3rd party, closed, binary Android apps. It can decode resources to nearly original form and rebuild them after making some modifications. It also makes working with an app easier because of the project like file structure and automation of some repetitive tasks like building apk, etc. |
 | **drozer** | https://labs.f-secure.com/tools/drozer/ | Comprehensive security and attack framework for Android. |
 | **OWASP MSTG** | https://github.com/OWASP/owasp-mstg | This is the official GitHub Repository of the OWASP Mobile Security Testing Guide (MSTG). The MSTG is a comprehensive manual for mobile app security testing and reverse engineering. |
 | **Frida** | https://frida.re/ | Dynamic instrumentation toolkit for developers, reverse-engineers, and security researchers. |
