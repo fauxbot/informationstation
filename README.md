@@ -18,7 +18,7 @@
 | Name | URL | Description |
 | :---------- | :----------: | :----------: |  
 | **Apktool** | https://ibotpeaches.github.io/Apktool/ | |
-| **drozer** | https://labs.f-secure.com/tools/drozer/ | |
+| **drozer** | https://labs.f-secure.com/tools/drozer/ | Common andoir web app testing tool |
   
 ## Threat Modeling
 | Name | URL | Description |
@@ -47,7 +47,7 @@
 ## Standards
 | Name | URL | Description |
 | :---------- | :----------: | :----------: |
-| **HIPAA** | https://purplesec.us/hipaa-risk-assessment/ | |
+| **HIPAA** | [https://purplesec.us/hipaa-risk-assessment/](https://purplesec.us/hipaa-risk-assessment/) | |
 
 ## Defensive: Hardening, Security Assessment and Inventory
 | Name | URL | Description |
