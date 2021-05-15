@@ -48,8 +48,3 @@
 | Name | URL | Description |
 | :---------- | :----------: | :----------: |
 | **HIPAA** | [https://purplesec.us/hipaa-risk-assessment/](https://purplesec.us/hipaa-risk-assessment/) | |
-
-## Defensive: Hardening, Security Assessment and Inventory
-| Name | URL | Description |
-| :---------- | :----------: | :----------: |
-| **ScoutSuite** | [https://github.com/nccgroup/ScoutSuite](https://github.com/nccgroup/ScoutSuite) | Multi-Cloud Security auditing tool for AWS Google Cloud and Azure environments (python) |
