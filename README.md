@@ -18,7 +18,8 @@
 | Name | URL | Description |
 | :---------- | :----------: | :----------: |  
 | **Apktool** | https://ibotpeaches.github.io/Apktool/ | |
-| **drozer** | https://labs.f-secure.com/tools/drozer/ | Common andoir web app testing tool |
+| **drozer** | https://labs.f-secure.com/tools/drozer/ | Common android web app testing tool |
+| **OWASP MSTG** | https://github.com/OWASP/owasp-mstg | This is the official GitHub Repository of the OWASP Mobile Security Testing Guide (MSTG). The MSTG is a comprehensive manual for mobile app security testing and reverse engineering. |
   
 ## Threat Modeling
 | Name | URL | Description |
