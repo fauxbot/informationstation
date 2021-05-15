@@ -50,3 +50,8 @@
 | Name | URL | Description |
 | :---------- | :----------: | :----------: |
 | **HIPAA** | https://purplesec.us/hipaa-risk-assessment/ | Per the brief history of HIPAA noted in the introduction, the HIPAA Security Rule defines the requirement of the Risk Assessment. |
+
+## Capture the Flag
+| Name | URL | Description |
+| :---------- | :----------: | :----------: |
+| **CTF Field Guide** | https://trailofbits.github.io/ctf/ | Whether you want to succeed at CTF, or as a computer security professional, you’ll need to become an expert in at least one of these disciplines. Ideally in all of them. |
