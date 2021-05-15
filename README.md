@@ -44,7 +44,7 @@
 | **Google Python Course** | https://developers.google.com/edu/python | |
 
 
-## Stabdards
+## Standards
 | Name | URL | Description |
 | ---------- | :---------- | :---------- |  
 | **HIPAA** | https://purplesec.us/hipaa-risk-assessment/ | |
