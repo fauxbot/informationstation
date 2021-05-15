@@ -10,9 +10,9 @@
 ## OWASP Top 10 Varieties
 | Name | URL | Description |
 | :---------- | :----------: | :----------: |
-| **Web OWASP Top 10** | https://owasp.org/www-project-top-ten/ | |
-| **OWASP API Top 10** | https://owasp.org/www-project-api-security/ | |
-| **OWASP Mobile Top 10** | https://owasp.org/www-project-mobile-top-10/ | 2016 |
+| **Web OWASP Top 10** | https://owasp.org/www-project-top-ten/ | The OWASP Top 10 is a standard awareness document for developers and web application security. It represents a broad consensus about the most critical security risks to web applications. |
+| **OWASP API Top 10** | https://owasp.org/www-project-api-security/ | API Security focuses on strategies and solutions to understand and mitigate the unique vulnerabilities and security risks of Application Programming Interfaces (APIs). |
+| **OWASP Mobile Top 10** | https://owasp.org/www-project-mobile-top-10/ (2016) | In 2015, we performed a survey and initiated a Call for Data submission Globally . This helped us to analyze and re-categorize the OWASP Mobile Top Ten for 2016. So the top ten categories are now more focused on Mobile application rather than Server. |
   
 ## Mobile Penetration Testing
 | Name | URL | Description |
