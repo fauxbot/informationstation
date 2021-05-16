@@ -33,6 +33,7 @@
 | Name | URL | Description |
 | :---------- | :----------: | :----------: |
 | **Free Burp Training** | https://portswigger.net/web-security | Free, online web security training from the creators of Burp Suite |
+| **SSRF Cheat Sheet** | https://cobalt.io/blog/a-pentesters-guide-to-server-side-request-forgery-ssrf | In a Server-Side Request Forgery (SSRF) attack, the attacker can abuse functionality on the server to read or update internal resources. The attacker can supply or modify a URL, which the code running on the server will read or submit data. |
 
 ## Penetration Testings AWS
 | Name | URL | Description |
