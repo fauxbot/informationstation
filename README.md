@@ -34,13 +34,14 @@
 | :---------- | :----------: | :----------: |
 | **Free Burp Training** | https://portswigger.net/web-security | Free, online web security training from the creators of Burp Suite |
 | **SSRF Cheat Sheet** | https://cobalt.io/blog/a-pentesters-guide-to-server-side-request-forgery-ssrf | In a Server-Side Request Forgery (SSRF) attack, the attacker can abuse functionality on the server to read or update internal resources. The attacker can supply or modify a URL, which the code running on the server will read or submit data. |
-| **Cloudfrunt** | https://github.com/MindPointGroup/cloudfrunt | CloudFrunt is a tool for identifying misconfigured CloudFront domains. |
+
 
 ## Penetration Testings AWS
 | Name | URL | Description |
 | :---------- | :----------: | :----------: | 
 | **AWS Cloud Penetration Testing** | https://rhinosecuritylabs.com/penetration-testing/penetration-testing-aws-cloud-need-know/ | Penetration Testing in the AWS Cloud: What You Need to Know |
 | **List of AWS Security Tools** | https://github.com/toniblyx/my-arsenal-of-aws-security-tools | Offensive and defensive AWS tools |
+| **Cloudfrunt** | https://github.com/MindPointGroup/cloudfrunt | CloudFrunt is a tool for identifying misconfigured CloudFront domains. |
   
 
 ## Programming
