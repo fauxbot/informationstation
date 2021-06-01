@@ -58,3 +58,9 @@
 | Name | URL | Description |
 | :---------- | :----------: | :----------: |
 | **CTF Field Guide** | https://trailofbits.github.io/ctf/ | Whether you want to succeed at CTF, or as a computer security professional, you’ll need to become an expert in at least one of these disciplines. Ideally in all of them. |
+
+
+## Active Directory Penetration Testing
+| Name | URL | Description |
+| :---------- | :----------: | :----------: |
+| **Attacking AD** | https://zer1t0.gitlab.io/posts/attacking_ad/ |  The purpose of this guide is to view Active Directory from an attacker perspective. I will try to review different aspects of Active Directory and those terms that every pentester should control in order to understand the attacks that can be performed in a Active Directory network. |
