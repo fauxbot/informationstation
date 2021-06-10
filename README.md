@@ -64,3 +64,8 @@
 | Name | URL | Description |
 | :---------- | :----------: | :----------: |
 | **Attacking AD** | https://zer1t0.gitlab.io/posts/attacking_ad/ |  The purpose of this guide is to view Active Directory from an attacker perspective. I will try to review different aspects of Active Directory and those terms that every pentester should control in order to understand the attacks that can be performed in a Active Directory network. |
+
+## Exploit Development
+| Name | URL | Description |
+| :---------- | :----------: | :----------: |
+| **Finding Privilege Escalation Vulnerabilities in Windows using Process Monitor** | https://vuls.cert.org/confluence/display/Wiki/Finding+Privilege+Escalation+Vulnerabilities+in+Windows+using+Process+Monitor |  This post will explain how to find privilege escalation vuls on Windows that no one appears to be looking for, because it's been pretty easy to find a bunch of them. After explaining how to find them, I'll introduce some defenses that can partly mitigate the problem in different ways. |
