@@ -21,7 +21,7 @@
 | **drozer** | https://labs.f-secure.com/tools/drozer/ | Comprehensive security and attack framework for Android. |
 | **OWASP MSTG** | https://github.com/OWASP/owasp-mstg | This is the official GitHub Repository of the OWASP Mobile Security Testing Guide (MSTG). The MSTG is a comprehensive manual for mobile app security testing and reverse engineering. |
 | **Frida** | https://frida.re/ | Dynamic instrumentation toolkit for developers, reverse-engineers, and security researchers. |
-| **abd** | https://developer.android.com/studio/command-line/adb | Dynamic instrumentation toolkit for developers, reverse-engineers, and security researchers. Good for moving an apk from device to computer. |
+| **abd** | https://developer.android.com/studio/command-line/adb | Android Debug Bridge (adb) is a versatile command-line tool that lets you communicate with a device. The adb command facilitates a variety of device actions, such as installing and debugging apps, and it provides access to a Unix shell that you can use to run a variety of commands on a device. Good for moving an apk from device to computer. |
 
   
 ## Threat Modeling
